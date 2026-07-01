@@ -112,8 +112,7 @@
           "options": {
             "settings": {
               "contextPath": "/ZC_REP003_GEOSITE_REPORT",
-                 
-              "variantManagement": "Page",
+              "variantManagement": "Control",
               "navigation": {
                 "ZC_REP003_GEOSITE_REPORT": {
                   "detail": {
